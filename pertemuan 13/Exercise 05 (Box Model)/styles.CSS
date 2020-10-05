@@ -1,0 +1,16 @@
+img{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+}
+
+.gallery1 {
+    margin: 0px;
+}
+.gallery2 {
+    margin: 0px 220px;
+}
+.gallery3 {
+    margin: 0px 440px;
+}
